@@ -6,7 +6,7 @@ export default {
   title:'Components/Text',
   component:Text,
   args:{
-    children:'Lorem ipsulm',
+    children:'Lorem ipsul',
     size:'md',
   },
   argTypes:{
