@@ -19,5 +19,7 @@ module.exports = {
     if(configType == 'PRODUCTION'){
       config.base = '/lab_design_system/'
     }
+
+    return config
   }
 }
